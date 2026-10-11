@@ -1,0 +1,18 @@
+{
+  "description": "Arabica Hackathon - Gönüllü Müşteri Beyanı / Sadakat Uygulaması Demo Veri Seti",
+  "source": "Arabica Sadakat Karti / Mobil Rezervasyon Beyani (DEMO)",
+  "customers": {
+    "1": {"gender": "Erkek", "source": "Arabica Sadakat Karti"},
+    "2": {"gender": "Kadin", "source": "Mobil Uygulama Check-in"},
+    "3": {"gender": "Erkek", "source": "Masa Rezervasyonu"},
+    "4": {"gender": "Kadin", "source": "Gonullu Anket"},
+    "5": {"gender": "Erkek", "source": "Arabica Sadakat Karti"},
+    "6": {"gender": "Kadin", "source": "Mobil Uygulama Check-in"},
+    "7": {"gender": "Erkek", "source": "Masa Rezervasyonu"},
+    "8": {"gender": "Kadin", "source": "Gonullu Anket"},
+    "9": {"gender": "Erkek", "source": "Arabica Sadakat Karti"},
+    "10": {"gender": "Kadin", "source": "Mobil Uygulama Check-in"},
+    "11": {"gender": "Erkek", "source": "Masa Rezervasyonu"},
+    "12": {"gender": "Kadin", "source": "Gonullu Anket"}
+  }
+}

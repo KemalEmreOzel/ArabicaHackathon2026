@@ -1,0 +1,11 @@
+# Arabica x YourEye Hackathon 2026 - Bağımlılıklar (Requirements)
+# Python 3.10+ (Önerilen: Python 3.11 veya 3.12/3.14)
+
+ultralytics>=8.3.0
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.40.0
+easyocr>=1.7.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
